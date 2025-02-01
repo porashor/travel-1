@@ -32,3 +32,140 @@ export const navData = [
         links: 'contact'
     },
 ]
+
+import img from "../assets/image/certi.png"
+
+export const visitPost = [
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+    {
+        name: "Bara Bara",
+        location:"New zeland",
+        amount: 600,
+        img: img
+    },
+]
